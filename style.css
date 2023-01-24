@@ -171,6 +171,21 @@ footer a:hover{
         width: 50%;
     }
     .s-box{
-        width: 300px;
+        width: 320px;
+    }
+    footer a{
+        padding: 5px 5px;
+        font-size: 11px;
+    }
+    footer h4{
+        font-size: 12px;
+        padding-left: 20px;
+    }
+    .s-btn{
+        font-size: 10px;
+        margin-left: 5px;
+    }
+    .lang{
+        font-size: 10px;
     }
 }
