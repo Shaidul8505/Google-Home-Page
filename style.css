@@ -182,4 +182,10 @@ footer a:hover{
         font-size: 12px;
         padding-left: 20px;
     }
+    .s-btn{
+        font-size: 12px;
+    }
+    .lang{
+        font-size: 11px;
+    }
 }
