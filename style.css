@@ -172,7 +172,7 @@ footer a:hover{
         width: 50%;
     }
     .s-box{
-        width: 300px;
+        width: 320px;
     }
     footer a{
         padding: 5px 5px;
@@ -184,6 +184,7 @@ footer a:hover{
     }
     .s-btn{
         font-size: 12px;
+        margin-left: 5px;
     }
     .lang{
         font-size: 11px;
